@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del prep course de Henry
+Esta es un ejercicio de prueba para crear un repositorio modificarlo desde nuestra computadora
